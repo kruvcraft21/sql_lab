@@ -1,0 +1,1 @@
+CREATE INDEX idx_flights_scheduled_btree ON flights (scheduled_departure);

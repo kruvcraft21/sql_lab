@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX idx_bookings_unique_ref ON bookings (book_ref);

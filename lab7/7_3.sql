@@ -1,0 +1,1 @@
+CREATE INDEX idx_airports_coordinates_gist ON airports_data USING GIST (coordinates);

@@ -1,0 +1,1 @@
+CREATE INDEX idx_flights_scheduled_brin ON flights USING BRIN (scheduled_departure);

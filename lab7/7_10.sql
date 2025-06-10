@@ -1,0 +1,1 @@
+CREATE INDEX idx_tickets_lower_name ON tickets (LOWER(passenger_name));
